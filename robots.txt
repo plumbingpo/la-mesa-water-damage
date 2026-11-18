@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lamesarestoration.com/sitemap.xml
